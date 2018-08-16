@@ -1,0 +1,1 @@
+[Wikipedia](https://hy.wikipedia.org/wiki/%D5%8E%D5%A1%D5%AD%D5%A9%D5%A1%D5%B6%D5%A3_%D4%B1%D5%B6%D5%A1%D5%B6%D5%B5%D5%A1%D5%B6)
