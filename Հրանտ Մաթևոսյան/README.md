@@ -11,3 +11,5 @@ http://www.hrantmatevossian.org/hy/works/
 `բույլ` աստղերի խումբ, համաստեղություն։
 
 `երիցուկ` chamomile
+
+թուդու
