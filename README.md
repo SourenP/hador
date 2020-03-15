@@ -52,3 +52,8 @@
 - [Անսովոր եւ սովորական - Վեհանուշ Թեքեան](https://github.com/Vortan/hador/blob/master/%D5%8E%D5%A5%D5%B0%D5%A1%D5%B6%D5%B8%D6%82%D5%B7%20%D4%B9%D5%A5%D6%84%D5%A5%D5%A1%D5%B6/%D4%B1%D5%B6%D5%BD%D5%B8%D5%BE%D5%B8%D6%80%20%D5%A5%D6%82%20%D5%BD%D5%B8%D5%BE%D5%B8%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%20.pdf)
 - [Հոլովոյթ - Մարուշ](https://github.com/Vortan/hador/blob/master/%D5%84%D5%A1%D6%80%D5%B8%D6%82%D5%B7/%D5%80%D5%B8%D5%AC%D5%B8%D5%BE%D5%B8%D5%B5%D5%A9.pdf)
 - [Մեր Թաղին Մարդիկը եւ Դպրոց - Զաբէլ Եսայեան](https://github.com/Vortan/hador/blob/master/%D4%B6%D5%A1%D5%A2%D5%A7%D5%AC%20%D4%B5%D5%BD%D5%A1%D5%B5%D5%A5%D5%A1%D5%B6/%D5%84%D5%A5%D6%80%20%D4%B9%D5%A1%D5%B2%D5%AB%D5%B6%20%D5%84%D5%A1%D6%80%D5%A4%D5%AB%D5%AF%D5%A8%20%D5%A5%D6%82%20%D4%B4%D5%BA%D6%80%D5%B8%D6%81%20.pdf)
+
+##
+
+- [AUA Digital Library of 
+Armenian Literature: Yesaian Zabel](http://digilib.aua.am/en/%D4%B6%D4%B1%D5%8A%D4%B5%D4%BC%20%D4%B5%D5%8D%D4%B1%D5%85%D4%B5%D4%B1%D5%86/library/549?fbclid=IwAR2RGEQYm1CSvaEOrjnK3rD2lURw0O2rLRMkJMVc4xGpUEuXv4lSjIUFYVY)
